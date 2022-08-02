@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on [PsicoApp](https://psico-app.vercel.app/)
+- 🔭 I’m currently working on [Portfolio](https://ezefaz.github.io/portfolio/)
 
-- 🌱 I’m currently learning **React Native, Redux ToolKit, Typescript**
+- 🌱 I’m currently learning **Authentication, Redux ToolKit, Typescript**
 
 - 📫 How to reach me **ezefaz@gmail.com**
 
