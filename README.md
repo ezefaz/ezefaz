@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on [Portfolio](https://ezefaz.github.io/portfolio/)
+- 🔭 I’m currently working on [PalermoJai](https://palermojai.com/)
 
-- 🌱 I’m currently learning **React Native, Redux ToolKit, Typescript**
+- 🌱 I’m currently learning **Typescript, AI and Testing**
 
 - 📫 How to reach me **ezefaz@gmail.com**
 
