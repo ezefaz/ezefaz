@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Automations (such as AI, chatbots)**
 
-- 📫 How to reach me **ezefaz@gmail.com**
+- 📫 How to reach me **ezefaz10@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ezequiel-faszczak-1537b01bb/)
 
