@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Developer from Argentina with a background in **Business Administration and Finances**. I build high-impact web applications that deliver real value — from B2B platforms to automated booking systems and e-commerce products.
+I'm a software developer from Argentina with a background in **Business Administration and Finances**. I build high-impact web applications that deliver real value — from B2B platforms to automated booking systems and e-commerce products.
 
 My focus is on **scalability, performance, and clean architecture** — always aligning code with business goals.
 
