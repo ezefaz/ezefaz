@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ezequiel</h1>
-<h3 align="center">Full Stack Developer | Business-Driven Technologist | Product-Oriented Engineer</h3>
+<h1 align="center">Hi, I'm Ezequiel 👋</h1>
+<h3 align="center">Software Developer | Business-Driven Technologist | Product-Oriented Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ezefaz&label=Profile%20views&color=0e75b6&style=flat" alt="ezefaz" />
