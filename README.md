@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ezequiel Faszczak</h1>
+<h1 align="center">Hi 👋, I'm Ezequiel Faszczak</h1>
 <h3 align="center">Full Stack Developer | Business-Driven Technologist | Product-Oriented Engineer</h3>
 
 <p align="center">
