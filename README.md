@@ -57,5 +57,5 @@ Photoshop, Sass, Bootstrap, HTML5, CSS3
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/efaszczak)
-- [Portfolio](https://ezefaz.vercel.app)
+- [Portfolio](https://fazdev.vercel.app)
 - Email: ezefaz@gmail.com
