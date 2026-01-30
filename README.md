@@ -17,7 +17,7 @@ My focus is on **scalability, performance, and clean architecture** — always a
 
 ### 🚀 What I'm Working On
 
-- Currently building [**LandFast**](https://landfast.app/): a digital solution focused on helping people to get a job easy & faster.
+- Currently building [**LandFast**](https://landfast.app/): an AI Copilot for job seekers, providing solutions for making the process less stressfull.
 - Learning advanced **automation tools** like AI-driven chatbots for business processes.
 
 ---
@@ -28,10 +28,10 @@ My focus is on **scalability, performance, and clean architecture** — always a
 JavaScript, TypeScript, React.js, Next.js, Node.js, React Native, Redux, Zustand
 
 **Backend & Tools:**  
-MySQL, PostgreSQL, Docker, Express, Strapi CMS, Git, Firebase, Heroku
+MySQL, PostgreSQL, Docker, Express, Firebase
 
 **Testing & DevOps:**  
-Cypress, Mocha, Jest, Postman, GitHub Actions
+Cypress, Mocha, Jest, Postman, Git, Gitlab, GitHub
 
 **Design & UI:**  
 Photoshop, Sass, Bootstrap, HTML5, CSS3
